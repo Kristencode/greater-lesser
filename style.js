@@ -1,14 +1,14 @@
 let fixedNum = 0;
-let inputNum = 2;
+let inputNum = t;
 
 if (inputNum > fixedNum) {
-  return "Positive NUm";
+console.log("Positive");
 } else if (inputNum < fixedNum) {
-  return "Negative number";
+ console.log("negative");
 } else if (inputNum === fixedNum) {
-  return"number is neutral";
-} if(isNaN(inputNum)){
-  console.log('not a number')
+  console.log("neutral");
+} else if (isNaN(inputNum)) {
+  console.log("not a number");
 }
 
 console.log(inputNum);

@@ -1,5 +1,5 @@
 let No1 = 0;
-let noTwo = 2;
+let noTwo = -1;
 
 if (No1 > noTwo) {
   console.log("number is greater");
