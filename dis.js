@@ -14,3 +14,6 @@ if (No1 === 0 && noTwo === 0) {
 
 
 // number is o..no is 0
+
+// Issues....1. Why is there is need for DOMLOADCONTENT
+// IssueTwo...
